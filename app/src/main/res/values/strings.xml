@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilterDemo</string>
+    <!--自定义获取相机、相册的对话框-->
+    <string name="amble_upload">相册上传</string>
+    <string name="take_photo_upload">拍照上传</string>
+    <string name="cancel">取消</string>
+</resources>
