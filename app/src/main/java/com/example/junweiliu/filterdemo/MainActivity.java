@@ -216,4 +216,7 @@ public class MainActivity extends BaseActivity {
         GetHeadPicture = new DialogGetHeadPicture(MainActivity.this){};
         GetHeadPicture.show();
     }
+
+
+
 }
